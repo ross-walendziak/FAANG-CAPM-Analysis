@@ -22,6 +22,8 @@ Capital Asset Pricing Model (CAPM) as applied to stocks Facebook, Apple, Amazon,
 * Stock return data merged with market return data on date.
 
 # Exploratory Data Analysis:
+* ![](https://github.com/ross-walendziak/FAANG-CAPM-Analysis/blob/main/Graphics/FAANG%20Descriptive%20Statisitcs.html)
+
 
 # Model Building:
 
