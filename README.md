@@ -39,7 +39,7 @@ Capital Asset Pricing Model (CAPM) as applied to stocks Facebook, Apple, Amazon,
 * All alpha estimates are very close to zero and are statistically insignificant.
 * Therefore, much of the return attributable to FAANG is attributable to systematic risk exposure as exhibited by Beta estimates.
 * Beta estimates were found to be statistically significant at the 1% level, except for Netfix where the Beta estimate was significant at the 5% level.
-* Given the estimates - Facebook, Apple, and Amazon common stocks can cyclical stocks whereas Netflix can be characterized as a defensive stock.
-* Risk in Google is approximatly equal to the market portfolio (Beta nealy 1.0).
+* Given the estimates - Facebook, Apple, and Amazon common stocks can be characterized as cyclical stocks whereas Netflix can be characterized as a defensive stock.
+* Risk in Google is approximatly equal to the market portfolio (Beta nearly 1.0).
 
 ![](https://github.com/ross-walendziak/FAANG-CAPM-Analysis/blob/main/Graphics/Model%20Results.png)
