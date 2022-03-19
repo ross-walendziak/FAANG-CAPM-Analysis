@@ -12,7 +12,7 @@ Capital Asset Pricing Model (CAPM) as applied to stocks Facebook, Apple, Amazon,
 * http://www.reproduciblefinance.com/start-here/
 
 # Data Source:
-* Historical stock prices sourced from the quantmod package using the 'yahoo' data source
+* Historical stock prices were sourced from the quantmod package using the 'yahoo' data source.
 * Market returns and risk-free-rate sourced from: http://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html
 
 # Data Cleaning:
