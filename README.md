@@ -3,7 +3,7 @@ Capital Asset Pricing Model (CAPM) as applied to stocks Facebook, Apple, Amazon,
 
 # Project Overview:
 * Soured historical pricing data on FAANG stocks as well as data on market returns and the risk-free-rate for the Sept 2015 through Sept 2021 period.
-* Visualized return charactericts of each FANG stock.
+* Visualized return characteristics of each FAANG stock.
 * Estimated beta coefficients to the market for the historical period under consideration.
 
 # Code and Resources Used:
