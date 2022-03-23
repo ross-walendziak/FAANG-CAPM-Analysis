@@ -32,8 +32,8 @@ Capital Asset Pricing Model (CAPM) as applied to stocks Facebook, Apple, Amazon,
 
 # Model Building:
 * All beta estimates were completed using simple linear regression.
-  * The the dependent variable is the monthly return sequence of the individual stock returns.
-  * The explanatory variable is the montly return sequence of market returns minus the period specific risk-free-rate.
+  * The  dependent variable is the monthly return sequence of the individual stock returns.
+  * The explanatory variable is the monthly return sequence of market returns minus the period specific risk-free-rate.
 
 # Model Results:
 * All alpha estimates are very close to zero and are statistically insignificant.
