@@ -16,7 +16,7 @@ Capital Asset Pricing Model (CAPM) as applied to stocks Facebook, Apple, Amazon,
 * Market returns and risk-free-rate sourced from: http://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html
 
 # Data Cleaning:
-* Stock prics were converted to monthly return sequences by taking the first observation from each month and calculating the percentage change over the T to T-1         period.
+* Stock prices were converted to monthly return sequences by taking the first observation from each month and calculating the percentage change over the T to T-1         period.
 * The return sequence is adjusted from wide to long and back to wide formates to accomodate return calculations.
 * Date converted from row names to date object within column.
 * Individual stock return data is merged with market return data on date.
